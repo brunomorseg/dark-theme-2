@@ -12,10 +12,10 @@ const Home = () => {
    <ThemeProvider>
     <Container>
       <header className="py-5">
-        <h1 className="text-3xl">Título da Página</h1>
+        <h1 className="text-3xl">Atualize a Página</h1>
       </header>
       <section>
-        <p className="my-5">Conteúdo da página</p>
+        <p className="my-5">Atualize de novo d[^-^]b</p>
 
         <Button label="Clique Aqui" />
       </section>
